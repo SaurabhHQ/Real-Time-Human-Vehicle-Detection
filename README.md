@@ -117,12 +117,19 @@ This project provides an AI-powered safety monitoring solution that helps organi
 ## Key Benefits
 
  **Improved Safety:** Detects humans and vehicles in real time to reduce accident risks.
+ 
  **Accident Prevention:** Identifies potential collision scenarios and generates instant alerts.
+ 
  **Automated Surveillance:** Monitors CCTV and video feeds without constant human supervision.
+ 
  **Reduced Human Error:** AI-based detection minimizes missed incidents during monitoring.
+ 
  **Cost-Effective Solution:** Can be integrated with existing camera infrastructure.
+ 
  **Industrial Safety:** Useful in warehouses, factories, logistics hubs, and construction sites.
+ 
  **Traffic Monitoring:** Supports smart traffic management and pedestrian safety initiatives.
+ 
  **Scalable Deployment:** Can be extended to multiple cameras and large surveillance networks.
 
 ## Business Applications
